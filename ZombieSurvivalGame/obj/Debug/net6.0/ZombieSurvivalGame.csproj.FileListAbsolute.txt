@@ -1,0 +1,14 @@
+C:\Users\Windows11\Documents\ZombieSurvivalGame\ZombieSurvivalGame\bin\Debug\net6.0\ZombieSurvivalGame.exe
+C:\Users\Windows11\Documents\ZombieSurvivalGame\ZombieSurvivalGame\bin\Debug\net6.0\ZombieSurvivalGame.deps.json
+C:\Users\Windows11\Documents\ZombieSurvivalGame\ZombieSurvivalGame\bin\Debug\net6.0\ZombieSurvivalGame.runtimeconfig.json
+C:\Users\Windows11\Documents\ZombieSurvivalGame\ZombieSurvivalGame\bin\Debug\net6.0\ZombieSurvivalGame.dll
+C:\Users\Windows11\Documents\ZombieSurvivalGame\ZombieSurvivalGame\bin\Debug\net6.0\ZombieSurvivalGame.pdb
+C:\Users\Windows11\Documents\ZombieSurvivalGame\ZombieSurvivalGame\obj\Debug\net6.0\ZombieSurvivalGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows11\Documents\ZombieSurvivalGame\ZombieSurvivalGame\obj\Debug\net6.0\ZombieSurvivalGame.AssemblyInfoInputs.cache
+C:\Users\Windows11\Documents\ZombieSurvivalGame\ZombieSurvivalGame\obj\Debug\net6.0\ZombieSurvivalGame.AssemblyInfo.cs
+C:\Users\Windows11\Documents\ZombieSurvivalGame\ZombieSurvivalGame\obj\Debug\net6.0\ZombieSurvivalGame.csproj.CoreCompileInputs.cache
+C:\Users\Windows11\Documents\ZombieSurvivalGame\ZombieSurvivalGame\obj\Debug\net6.0\ZombieSurvivalGame.dll
+C:\Users\Windows11\Documents\ZombieSurvivalGame\ZombieSurvivalGame\obj\Debug\net6.0\refint\ZombieSurvivalGame.dll
+C:\Users\Windows11\Documents\ZombieSurvivalGame\ZombieSurvivalGame\obj\Debug\net6.0\ZombieSurvivalGame.pdb
+C:\Users\Windows11\Documents\ZombieSurvivalGame\ZombieSurvivalGame\obj\Debug\net6.0\ZombieSurvivalGame.genruntimeconfig.cache
+C:\Users\Windows11\Documents\ZombieSurvivalGame\ZombieSurvivalGame\obj\Debug\net6.0\ref\ZombieSurvivalGame.dll
